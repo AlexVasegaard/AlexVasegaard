@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexVasegaard
 - 👀 I’m interested in operations research, decision making, preference structure, and putting it all together through math and code
 - 🌱 I’m currently writing my PhD within multi-criteria decision-making at Aalborg University
-- 💞️ I’m looking to collaborate on operation research and preference modelling methods. I am currently working on satelite scheduling, UAV SAR mission, and bus stop allocation problems
+- 💞️ I’m looking to collaborate on operation research and preference modelling methods. I am currently working on satelite scheduling, UAV SAR mission, mission success and bus stop allocation problems
 - 📫 How to reach me on my work email aev@mp.aau.dk
